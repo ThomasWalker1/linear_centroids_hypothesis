@@ -1,1 +1,1 @@
-# linear_centroids_hypothesis
+# The Linear Centroids Hypothesis: How Deep Networks Represent Features
